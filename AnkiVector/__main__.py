@@ -80,16 +80,16 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="➕ ᴀᴅᴅ ᴀɴᴋɪ ᴠᴇᴄᴛᴏʀ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/Avindubot?startgroup=true"
+            text="➕ ᴀᴅᴅ ᴀvindu bot ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ➕", url="t.me/Avindubot?startgroup=true"
         ),
     ],
 ]
 
 
-ANKIVECTOR_IMG = "https://telegra.ph/file/738398aef9acda18abf01.jpg"
+ANKIVECTOR_IMG = "https://telegra.ph/file/a4e0424df15b5507a12db.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [🤖](https://telegra.ph/file/738398aef9acda18abf01.jpg)
+*Main Commands :* [🤖](https://telegra.ph/file/a4e0424df15b5507a12db.jpg)
 
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
