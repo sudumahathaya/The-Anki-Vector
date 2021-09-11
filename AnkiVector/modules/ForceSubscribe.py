@@ -57,7 +57,7 @@ def _onUnMuteRequest(client, cb):
                 except UserNotParticipant:
                     client.answer_callback_query(
                         cb.id,
-                        text=f"❗ @{channel} චැනල් එකට Join වෙලා Unmute Button එක ඔබන්න...".",
+                        text=f"❗ @{channel} චැනල් එකට Join වෙලා Unmute Button එක ඔබන්න....",
                         show_alert=True,
                     )
             else:
