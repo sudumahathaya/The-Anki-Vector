@@ -196,7 +196,7 @@ def config(client, message):
 
 __help__ = """
 *ForceSubscribe:*
-❂ Anki Vector can mute members who are not subscribed your channel until they subscribe
+❂ 𝓡𝓞𝓢𝓘 𝓟𝓡𝓘𝓝𝓒𝓔𝓢𝓢 can mute members who are not subscribed your channel until they subscribe
 ❂ When enabled I will mute unsubscribed members and show them a unmute button. When they pressed the button I will unmute them
 *Setup*
 1) First of all add me in the group as admin with ban users permission and in the channel as admin.
